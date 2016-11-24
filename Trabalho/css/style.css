@@ -1,0 +1,35 @@
+body {
+	background: teal;
+	background: url('../img/fundo.png');
+	margin: 0;
+	padding: 0;
+}
+
+#telajogo {
+	text-align: center;
+	padding: 5px;
+	width: 684px;
+	height: 346px;
+}
+#corpojogo {
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 5px;
+	width: 664px;
+	height: 640px;
+}
+#cabeçalho {
+    padding: 5px;
+	width: 674px;
+	height: 80px;
+}
+#titulo {
+   font: 40px fantasy;
+   text-align: center;
+   color: #FFD700;
+   text-shadow: 2px 2px 4px black;
+}
+#tela {
+    position: relative;
+    border: 2px inset gray;
+}
